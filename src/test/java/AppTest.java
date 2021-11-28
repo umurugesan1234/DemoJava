@@ -1,7 +1,7 @@
 import com.example.App;
 import org.junit.Test;
 import static org.junit.Assert.*;
-//test
+
 public class AppTest {
 
     @Test
